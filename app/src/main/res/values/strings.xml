@@ -1,0 +1,187 @@
+<resources>
+    <string name="app_name">Language courses</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="c_programming">Aim of the c language to design the UNIX operating system (which is used on many computers). C is a powerful programming language than other programming language.</string>
+    <string name="c_plus">C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs.</string>
+    <string name="python_programming">Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.It was created by Guido van Rossum, and released in 1991.</string>
+    <string name="java">Java is a widely-used programming language for coding web applications.It is a programming language and computing platform first released by Sun Microsystems in 1995.</string>
+    <string name="c_sharp">C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework.C# is used to develop web apps, desktop apps, mobile apps, games and much more.</string>
+    <string name="html">HTML is the most basic building block of the Web. It defines the meaning and structure of web content.HTML is the standard markup language for Web pages.With HTML you can create your own Website.</string>
+    <string name="css">CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed.CSS is a widely used language on the web.</string>
+    <string name="js">JavaScript is the world most popular programming language.JavaScript is the programming language of the Web.JavaScript is easy to learn.</string>
+    <string name="php">PHP is an acronym for "PHP: Hypertext Preprocessor".It is a widely-used, open source scripting language.It scripts are executed on the server.It is free to download and use.</string>
+    <string name="nodeJs">Node.js is an open source server environmentNode.js is free.Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.).Node.js uses JavaScript on the server</string>
+    <string name="dsa">It is a fundamental concept in computer science that focuses on organizing and manipulating data efficiently.</string>
+    <string name="ai_ml">AI/ML—short for artificial intelligence (AI) and machine learning (ML)—represents an important evolution in computer science and data processing that is quickly transforming a vast array of industries.</string>
+
+
+
+    <string name="c_1">Introduction</string>
+    <string name="c_2">Structure of C Programming</string>
+    <string name="c_3">Programming In C</string>
+    <string name="c_4">Io Function</string>
+    <string name="c_5">If-Else Construct</string>
+    <string name="c_6">Switch Case</string>
+    <string name="c_7">Loop In C</string>
+    <string name="c_8">Operators</string>
+    <string name="c_9">Arrays</string>
+    <string name="c_10">Working With Function</string>
+
+
+    <string name="cc_1">Introduction</string>
+    <string name="cc_2">C++ Basics</string>
+    <string name="cc_3">C++ Variable and Constants</string>
+    <string name="cc_4">Data Types and Literals</string>
+    <string name="cc_5">Input / Output</string>
+    <string name="cc_6">Control Statements</string>
+    <string name="cc_7">Function</string>
+    <string name="cc_8">Pointer and Reference</string>
+    <string name="cc_9">Arrays</string>
+    <string name="cc_10">String</string>
+    <string name="cc_11">C Vs C++</string>
+
+    <string name="cs_1">Introduction</string>
+    <string name="cs_2">C# Tutorial</string>
+    <string name="cs_3">Introduction to .Net Framework</string>
+    <string name="cs_4">Input/Output</string>
+    <string name="cs_5">C# Identifiers</string>
+    <string name="cs_6">Variables</string>
+    <string name="cs_7">Literals</string>
+    <string name="cs_8">Operators</string>
+    <string name="cs_9">Arrays</string>
+    <string name="cs_10">String</string>
+    <string name="cs_11">Collections And Generations</string>
+
+    <string name="j_1">Introduction</string>
+    <string name="j_2">Basics </string>
+    <string name="j_3">Input/Output</string>
+    <string name="j_4">Flow Control</string>
+    <string name="j_5">Operators</string>
+    <string name="j_6">Strings</string>
+    <string name="j_7">Arrays</string>
+    <string name="j_8">Classes and objects </string>
+    <string name="j_9">Inheritance </string>
+    <string name="j_10">Abstraction</string>
+    <string name="j_11">Encapsulation</string>
+    <string name="j_12">Polymorphism</string>
+    <string name="j_13">Interface</string>
+
+
+    <string name="p_1">Introduction</string>
+    <string name="p_2">Input/Output</string>
+    <string name="p_3">Operators</string>
+    <string name="p_4">Data Types</string>
+    <string name="p_5">String</string>
+    <string name="p_6">List</string>
+    <string name="p_7">Tuples</string>
+    <string name="p_8">Sets</string>
+    <string name="p_9">Dictionary</string>
+    <string name="p_10">Flow Control</string>
+    <string name="p_11">Functions</string>
+
+    <string name="h_1">Introduction</string>
+    <string name="h_2">Editors</string>
+    <string name="h_3">Comments</string>
+    <string name="h_4">Basics</string>
+    <string name="h_5">Elements</string>
+    <string name="h_6">Heading</string>
+    <string name="h_7">Paragraph</string>
+    <string name="h_8">Links</string>
+    <string name="h_9">Images</string>
+    <string name="h_10">Audio/Video</string>
+    <string name="h_11">iFrames</string>
+    <string name="h_12">Tables</string>
+
+
+    <string name="css_1">Introduction</string>
+    <string name="css_2">Syntax</string>
+    <string name="css_3">Comments</string>
+    <string name="css_4">Colors </string>
+    <string name="css_5">Borders</string>
+    <string name="css_6">Margin And Padding</string>
+    <string name="css_7">Height And Width</string>
+    <string name="css_8">Outline</string>
+    <string name="css_9">Fonts</string>
+    <string name="css_10">Icons</string>
+    <string name="css_11">Tables</string>
+    <string name="css_12">Pseudo Elements</string>
+
+    <string name="js_1">Introduction</string>
+    <string name="js_2">How to Add JavaScript in HTML Document ?</string>
+    <string name="js_3">Statements</string>
+    <string name="js_4">Output</string>
+    <string name="js_5">Comments</string>
+    <string name="js_6">Data Type And Variables</string>
+    <string name="js_7">Operators</string>
+    <string name="js_8">Loops</string>
+    <string name="js_9">Object</string>
+    <string name="js_10">Function</string>
+    <string name="js_11">Array</string>
+    <string name="js_12">Json</string>
+
+    <string name="php_1">Introduction</string>
+    <string name="php_2">How To Set PHP Development Environment ?</string>
+    <string name="php_3">Coding Standards</string>
+    <string name="php_4">Basic Syntax</string>
+    <string name="php_5">Variables</string>
+    <string name="php_6">echo and print</string>
+    <string name="php_7">Data Types</string>
+    <string name="php_8">Strings</string>
+    <string name="php_9">Constants</string>
+    <string name="php_10">Decision Making</string>
+    <string name="php_11">Loops</string>
+    <string name="php_12">Super globals</string>
+    <string name="php_13">Regular Expressions</string>
+
+    <string name="nj_1">Introduction</string>
+    <string name="nj_2">Installation</string>
+    <string name="nj_3">Basics</string>
+    <string name="nj_4">NPM</string>
+    <string name="nj_5">Global Object</string>
+    <string name="nj_6">Modules</string>
+    <string name="nj_7">Local Module</string>
+    <string name="nj_8">Path Module</string>
+    <string name="nj_9">Process Module</string>
+    <string name="nj_10">Query String Module</string>
+    <string name="nj_11">Timers Module</string>
+    <string name="nj_12">UDP/DataGram Module</string>
+
+
+    <string name="ds_1">Introduction to DSA</string>
+    <string name="ds_2">Array Data Structure</string>
+    <string name="ds_3">String Data Structure</string>
+    <string name="ds_4">Linked List</string>
+    <string name="ds_5">Stack</string>
+    <string name="ds_6">Queue</string>
+    <string name="ds_7">Tree Data Structure</string>
+    <string name="ds_8">Heap Data Structure</string>
+    <string name="ds_9">Hashing Data Structure</string>
+    <string name="ds_10">Graph Data Structure And Algorithms</string>
+    <string name="ds_11">Matrix Data Structure</string>
+    <string name="ds_12">Introduction to Set</string>
+    <string name="ds_13">Introduction to Map</string>
+    <string name="ds_14">Searching Algorithms</string>
+    <string name="ds_15">Sorting Algorithms</string>
+    <string name="ds_16">Recursion Algorithms</string>
+
+
+
+
+
+
+
+
+
+        <string-array name="region1">
+            <item>item1</item>
+            <item>item2</item>
+            <item>item3</item>
+            <item>item4</item>
+            <item>item5</item>
+            <item>item6</item>
+        </string-array>
+
+
+</resources>
